@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.navbar-color{
+	background-color: #ececed;
+}
+.navbar-color *{
+	color:#000000;
+}
+.btn-eviden{
+		color:black;
+		border-color:#ff6d43;
+		text-transform: capitalize;
+}
+.login-form .btn-eviden{
+		float: right;
+}
+.btn-eviden:hover{
+		color:white;
+		background-color: #ff6d43;
+}
+.ft-color{
+	color:black;
+}
